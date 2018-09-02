@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36546" started-at="2018-08-21T01:06:56Z" finished-at="2018-08-21T01:07:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36546" started-at="2018-08-21T01:06:56Z" finished-at="2018-08-21T01:07:32Z">
+      <class name="selenium.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="beforeMethod" is-config="true" duration-ms="10885" started-at="2018-08-21T01:06:56Z" finished-at="2018-08-21T01:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginWithIncorrectEmail()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="testLoginWithIncorrectEmail" duration-ms="4173" started-at="2018-08-21T01:07:07Z" finished-at="2018-08-21T01:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWithIncorrectEmail -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="afterMethod" is-config="true" duration-ms="2977" started-at="2018-08-21T01:07:11Z" finished-at="2018-08-21T01:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="beforeMethod" is-config="true" duration-ms="8682" started-at="2018-08-21T01:07:14Z" finished-at="2018-08-21T01:07:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginWtihWrongPassword()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="testLoginWtihWrongPassword" duration-ms="7927" started-at="2018-08-21T01:07:22Z" finished-at="2018-08-21T01:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginWtihWrongPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:selenium.LoginTest@27ce24aa]" name="afterMethod" is-config="true" duration-ms="1830" started-at="2018-08-21T01:07:30Z" finished-at="2018-08-21T01:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- selenium.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
